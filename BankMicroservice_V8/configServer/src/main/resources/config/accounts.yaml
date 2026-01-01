@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Local APIs"
+  contactDetails:
+    name: "Siva local Lead"
+    email: "siva@local.com"
+  onCallSupport:
+    - 7868086257
+    - 7558198697

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to PROD APIs"
+  contactDetails:
+    name: "Siva PROD Lead"
+    email: "siva@PROD.com"
+  onCallSupport:
+    - 7868086257
+    - 7558198697
